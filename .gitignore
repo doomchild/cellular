@@ -1,0 +1,5 @@
+#compiled files
+*.fasl
+
+#emacs temp files
+*~
